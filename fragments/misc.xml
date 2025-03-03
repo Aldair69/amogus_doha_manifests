@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-     <remote name="aldair69"
-        fetch="https://github.com/Aldair69/" />
+     <remote name="LeafOS"
+        fetch="https://github.com/LeafOS-experimental/" />
     <project path="hardware/samsung/nfc" name="platform_hardware_samsung_nfc"
         remote="moto-common" revision="master" />
     <project path="device/sony/sepolicy" name="android_device_sony_sepolicy"
@@ -14,6 +14,6 @@
         remote="moto-common" revision="master" />
     <project path="prebuilts/clang/host/linux-x86/clang-r383902" name="platform_prebuilts_clang_host_linux-x86_clang-r383902"
         remote="moto-common" revision="master" />
-    <project path="prebuilts/clang/host/linux-x86/clang-r450784e" name="platform_prebuilts_clang_host_linux-x86_clang-r450784e"
-        remote="moto-common-yzu" revision="master" />
+    <project path="prebuilts/clang/host/linux-x86/clang-r450784e" name="android_prebuilts_clang_kernel_linux-x86_clang-r450784e"
+        remote="LeafOS" revision="master" />
 </manifest>
