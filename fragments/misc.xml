@@ -15,5 +15,5 @@
     <project path="prebuilts/clang/host/linux-x86/clang-r383902" name="platform_prebuilts_clang_host_linux-x86_clang-r383902"
         remote="moto-common" revision="master" />
     <project path="prebuilts/clang/host/linux-x86/clang-r450784e" name="android_prebuilts_clang_kernel_linux-x86_clang-r450784e"
-        remote="LeafOS" revision="master" />
+        remote="LeafOS" revision="leaf-4.0" />
 </manifest>
