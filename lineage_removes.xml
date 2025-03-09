@@ -7,6 +7,7 @@
   <remove-project name="platform/hardware/samsung/nfc" />
   <remove-project name="android_hardware_qcom-caf_common" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr-legacy" />
   <remove-project name="android_hardware_qcom_thermal" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" />
