@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <manifest>
   <remote name="moto-common" fetch="https://github.com/moto-common/" />
-  <remove-project name="platform/external/fastrpc" />
+  <remove-project name="android_external_fastrpc" />
   <remove-project name="platform/hardware/qcom/bootctrl" />
   <remove-project name="platform/hardware/samsung/nfc" />
   <remove-project name="android_hardware_qcom-caf_common" />
