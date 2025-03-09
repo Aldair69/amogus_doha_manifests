@@ -2,8 +2,6 @@
 <manifest>
     <remote name="moto-common"
         fetch="https://github.com/moto-common/" />
-    <remote name="aospa"
-        fetch="https://github.com/AOSPA/" />
     <remote name="aospa-vendor"
         fetch="https://github.com/ThankYouMario/" />
     <remote name="moto-common-vendor"
