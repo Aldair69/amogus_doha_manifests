@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github2"
-        fetch="https://github.com/" />
+    <remote name="gitlab2"
+        fetch="https://gitlab.com/" />
     <project path="hardware/samsung/nfc" name="platform_hardware_samsung_nfc"
         remote="moto-common" revision="master" />
     <project path="device/sony/sepolicy" name="android_device_sony_sepolicy"
@@ -14,6 +14,6 @@
         remote="moto-common" revision="master" />
     <project path="prebuilts/clang/host/linux-x86/clang-r383902" name="platform_prebuilts_clang_host_linux-x86_clang-r383902"
         remote="moto-common" revision="master" />
-    <project path="prebuilts/clang/host/linux-x86/clang-r450784e" name="LeafOS-experimental/android_prebuilts_clang_kernel_linux-x86_clang-r450784e"
-        remote="github2" revision="leaf-4.0" />
+    <project path="prebuilts/clang/host/linux-x86/clang-r450784e" name="Neebe3289/android_prebuilts_clang_host_linux-x86/"
+        remote="gitlab2" revision="clang-r450784e" />
 </manifest>
