@@ -49,8 +49,8 @@
         remote="moto-common" revision="master" />
     <project path="external/ant-wireless/hidl" name="external_ant-wireless_hidl"
         remote="moto-common" revision="master" />
-    <project path="system/qcom" name="android_system_qcom"
-        remote="moto-common" revision="master" />
+   <!-- QCOM Common <project path="system/qcom" name="android_system_qcom"
+        remote="moto-common" revision="master" /> -->
     <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony"
         remote="moto-common" revision="master" />
     <project path="vendor/qcom/opensource/commonsys/fm" name="platform_vendor_qcom_opensource_fm-commonsys"
