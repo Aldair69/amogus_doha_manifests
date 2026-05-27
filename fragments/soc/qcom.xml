@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="aldair69"
-        fetch="https://github.com/Aldair69/" />
+        fetch="https://github.com/Aldair402/" />
     <!-- QCOM Common -->
     <project path="device/qcom/common" name="android_device_qcom_common"
         remote="aospa" revision="uvite" />
