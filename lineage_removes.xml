@@ -2,7 +2,6 @@
 <manifest>
   <remote name="moto-common" fetch="https://github.com/moto-common/" />
   <remove-project name="platform/external/fastrpc" />
-  <remove-project name="LineageOS/android_hardware_qcom_bootctrl" />
   <remove-project name="LineageOS/android_hardware_samsung_nfc" />
   <remove-project name="LineageOS/android_hardware_qcom-caf_common" />
   <remove-project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
